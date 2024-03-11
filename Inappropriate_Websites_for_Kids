@@ -1,80 +1,64 @@
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-
-#0.0.0.0 Pornhub.com 
-0.0.0.0 xnxx.com 
-0.0.0.0 8Tube.xxx 
-0.0.0.0 Redtube.com 
-0.0.0.0 Kink.com 
-0.0.0.0 YouJizz.com 
-0.0.0.0 Xvideos.com 
-0.0.0.0 YouPorn.com 
-0.0.0.0 Brazzers.com 
-0.0.0.0 Omegle.com 
-0.0.0.0 PalTalk.com 
-0.0.0.0 TalkWithStranger.com 
-0.0.0.0 ChatRoulette.com 
-0.0.0.0 Chat-Avenue.com 
-0.0.0.0 Chatango.com 
-0.0.0.0 Teenchat.com 
-0.0.0.0 Wireclub.com 
-0.0.0.0 ChatHour.com 
-0.0.0.0 Chatzy.com 
-0.0.0.0 Chatib.us 
-0.0.0.0 E-Chat.co 
-0.0.0.0 SomethingAwful.com 
-0.0.0.0 Topix.com 
-0.0.0.0 Stormfront.org 
-0.0.0.0 KiwiFarms.net 
-0.0.0.0 Voat.co 
-0.0.0.0 8kun.top 
-0.0.0.0 Incels.me 
-0.0.0.0 Tinder.com 
-0.0.0.0 Match.com 
-0.0.0.0 Bumble.com 
-0.0.0.0 MeetMe.com 
-0.0.0.0 OKCupid.com 
-0.0.0.0 POF.com 
-0.0.0.0 eHarmony.com 
-0.0.0.0 Zoosk.com 
-0.0.0.0 Hinge.co 
-0.0.0.0 Grindr.com 
-0.0.0.0 AshleyMadison.com 
-0.0.0.0 AdultFriendFinder.com 
-0.0.0.0 BetOnline.ag 
-0.0.0.0 FreeSpin.com 
-0.0.0.0 Bovada.lv 
-0.0.0.0 SlotoCash.im 
-0.0.0.0 RoyalAceCasino.com 
-0.0.0.0 PokerStars.com 
-0.0.0.0 888casino.com 
-0.0.0.0 SportsBetting.ag 
-0.0.0.0 Betway.com 
-0.0.0.0 LiveLeak.com 
-0.0.0.0 BestGore.com 
-0.0.0.0 TheYNC.com 
-0.0.0.0 DocumentingReality.com 
-0.0.0.0 Ogrish.tv 
-0.0.0.0 HackThisSite.org 
-0.0.0.0 ThePirateBay.org 
-0.0.0.0 WikiLeaks.org 
-0.0.0.0 DarkWebLinks.net 
-0.0.0.0 IllegalHack.com 
-0.0.0.0 Stormfront.org 
-0.0.0.0 4chan.org 
-0.0.0.0 Gab.com 
-0.0.0.0 NationalVanguard.org 
-0.0.0.0 DailyStormer.su 
+Pornhub.com 
+xnxx.com 
+8Tube.xxx 
+Redtube.com 
+Kink.com 
+YouJizz.com 
+Xvideos.com 
+YouPorn.com 
+Brazzers.com 
+Omegle.com 
+PalTalk.com 
+TalkWithStranger.com 
+ChatRoulette.com 
+Chat-Avenue.com 
+Chatango.com 
+Teenchat.com 
+Wireclub.com 
+ChatHour.com 
+Chatzy.com 
+Chatib.us 
+E-Chat.co 
+SomethingAwful.com 
+Topix.com 
+Stormfront.org 
+KiwiFarms.net 
+Voat.co 
+8kun.top 
+Incels.me 
+Tinder.com 
+Match.com 
+Bumble.com 
+MeetMe.com 
+OKCupid.com 
+POF.com 
+eHarmony.com 
+Zoosk.com 
+Hinge.co 
+Grindr.com 
+AshleyMadison.com 
+AdultFriendFinder.com 
+BetOnline.ag 
+FreeSpin.com 
+Bovada.lv 
+SlotoCash.im 
+RoyalAceCasino.com 
+PokerStars.com 
+888casino.com 
+SportsBetting.ag 
+Betway.com 
+LiveLeak.com 
+BestGore.com 
+TheYNC.com 
+DocumentingReality.com 
+Ogrish.tv 
+HackThisSite.org 
+ThePirateBay.org 
+WikiLeaks.org 
+DarkWebLinks.net 
+IllegalHack.com 
+Stormfront.org 
+4chan.org 
+Gab.com 
+NationalVanguard.org 
+DailyStormer.su 
